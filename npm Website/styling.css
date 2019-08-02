@@ -1,0 +1,171 @@
+body{
+    margin: 0;
+}
+.topbar{
+    width: 100%;
+    height: 30px;
+    background-color:#C11F29 ;
+    color: white;
+}
+.rightop li{
+    display: inline-block;
+    position: relative;
+    bottom: 27px;
+    text-decoration-line: none;
+    margin: 0 10px;
+    float: right;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+#heart, #heart2{
+    top: 8px;
+    position: relative;
+}
+#heart{
+    margin: 0 20px
+}
+.section2{
+    width: 100%;
+    height: 40px;
+    display: inline-block;
+    position: relative;
+    bottom: 20px;
+    text-align: center;
+}
+
+#signup {
+    float: right;
+    width: 20%;
+    position: relative;
+    top: 15px;
+    right: 50px;
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+}
+
+.searcher{
+    width: 66%;
+    padding: 5px;
+    position: relative;
+    left: 40px;
+    background-color: #285F7E;
+}
+
+#npm{
+    float: left;
+    position: relative;
+    left: 25px;
+    top: 6px;
+}
+
+header{
+    background-color: #226081 ;
+}
+
+#sbutton{
+    padding: 5px;
+    width: 30px;
+    position: relative;
+    top: 9.5px;
+    left: 37px;
+    background-color: #285F7E;
+    background-image: url(pictures/search%20magnifying%20glass%20icon.png);
+}
+
+#bear{
+    height: 30px;
+    position: relative;
+    top: 10px;
+    left: 180px;
+}
+
+.amazing{
+    background-image: url(pictures/city-scape.svg);
+    height: 350px
+}
+#text{
+    width: 500px;
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 220px;
+}
+#signer{
+    border-style: hidden;
+    background-color: #F3902F;
+    border-radius: 20px;
+    color: white;
+    padding: 10px
+}
+.section3{
+    background-color: #263547;
+    height: 400px
+}
+#workers{
+    height: 250px;
+    position: relative;
+    top: 70px;
+    left: 120px
+}
+.orgs{
+    float: right;
+    color: white;
+    position: relative;
+    right: 260px;
+    top: 80px
+}
+#link{
+    text-decoration: none;
+    color: white;
+    top: 20px;
+    position: relative;
+}
+#button{
+    border: hidden;
+    border-radius: 50px;
+    background-color: #CB3737;
+    color: white;
+    padding: 10px;
+}
+.section4{
+    background-image: url(pictures/forklift.svg);
+    height: 480px;
+    position: relative;
+    bottom: 20px
+}
+.win{
+    width: 360px;
+    position: relative;
+    top: 90px;
+    left: 80px;
+    color: white;
+}
+#install{
+    color: white;
+    background-color: #314357;
+    border-radius: 50px;
+    padding: 6px;
+    width: 100px;
+    border: none;
+}
+.section5{
+    text-align: center;
+    
+}
+.find{
+    float: left;
+    width: 240px;
+    left: 250px;
+    position: relative;
+    top: 40px
+}
+.discover{
+    left: 320px;
+}
+.build{
+    left: 400px;
+    position: relative;
+}
